@@ -10,7 +10,7 @@ pip3 install Django
 * Clone or download this repo
 * Start web
 ```bash
-python3 manage.py runserver
+python3 manage.py runserver --insecure
 ```
 
 Run test:
