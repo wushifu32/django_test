@@ -12,3 +12,8 @@ pip3 install Django
 ```bash
 python3 manage.py runserver
 ```
+
+Run test:
+```bash
+python3 manage.py test polls
+```
